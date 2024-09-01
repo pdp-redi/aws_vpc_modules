@@ -1,0 +1,7 @@
+project_name  = "new_project123"
+region        = "ap-south-1"
+vpc_cidr      = "10.0.0.0/16"
+pub_sub1_cidr = "10.0.1.0/24"
+pub_sub2_cidr = "10.0.2.0/24"
+pr_sub1_cidr  = "10.0.4.0/24"
+pr_sub2_cidr  = "10.0.5.0/24"
